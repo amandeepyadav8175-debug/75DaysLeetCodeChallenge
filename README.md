@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
