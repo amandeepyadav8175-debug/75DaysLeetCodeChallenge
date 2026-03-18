@@ -15,6 +15,7 @@ class Solution {
          if(partindx==n){//100|
             return (currsum==target);
          }
+         if(currsum>target) return false;
          for(int indx=partindx;indx<n;indx++){
             int val=Integer.parseInt(i2.substring(partindx,indx+1));
             if(ispartition(indx+1,i2,target,currsum+val)){
