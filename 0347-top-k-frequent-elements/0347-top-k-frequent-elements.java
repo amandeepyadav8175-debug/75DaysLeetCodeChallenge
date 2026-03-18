@@ -7,26 +7,20 @@ class Solution {
             map.put(num, map.getOrDefault(num,0) + 1);
         }
 
-        // min heap based on frequency
-        PriorityQueue<Integer> pq = new PriorityQueue<>(
-            (a,b) -> map.get(a) - map.get(b)
-        );
+         List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
+         Collections.sort(list, (a, b) -> b.getValue() - a.getValue());
 
-        for(int key : map.keySet()){
-            pq.add(key);
-
-            if(pq.size() > k){
-                pq.poll();
-            }
+        List<Integer> result = new ArrayList<>();
+        for(int i = 0; i < k; i++){
+            result.add(list.get(i).getKey());
         }
-
-        int[] res = new int[k];
-        int i = 0;
-
-        while(!pq.isEmpty()){
-            res[i++] = pq.poll();
+        int arr[]= new int[result.size()];
+        for(int i=0;i<result.size();i++){
+            arr[i]=result.get(i);
         }
+        return arr;
 
-        return res;
+
+        
     }
 }
