@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2466-count-ways-to-build-good-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2466-count-ways-to-build-good-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
