@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2698-find-the-punishment-number-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
