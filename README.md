@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
