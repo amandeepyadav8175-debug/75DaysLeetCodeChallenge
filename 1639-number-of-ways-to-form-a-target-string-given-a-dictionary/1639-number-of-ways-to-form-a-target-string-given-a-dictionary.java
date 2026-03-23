@@ -10,25 +10,26 @@ class Solution {
             }
         }
 
-        long dp[][]= new long[ wordlen+1][targetlen+1];
-        for(int i=0;i<wordlen+1;i++){
-           dp[i][targetlen]=1;
-        }
+        long next[]= new long[targetlen+1];
+        next[targetlen]=1;
         for(int i=wordlen-1;i>=0;i--){
+             long curr[]= new long[targetlen+1];
+              curr[targetlen]=1;
             for(int j=targetlen-1;j>=0;j--){
                   int indx=target.charAt(j)-'a';
                     int freq= charfreq[i][indx];
 
-        long pick=freq* dp[i+1][j+1];//recur(wordindx+1,targetindx+1,charfreq,words,target,dp);
-        long nopick= dp[i+1][j];//recur(wordindx+1,targetindx,charfreq,words,target,dp);
+        long pick=freq* next[j+1];//recur(wordindx+1,targetindx+1,charfreq,words,target,dp);
+        long nopick= next[j];//recur(wordindx+1,targetindx,charfreq,words,target,dp);
         long ans=(pick+nopick)%1000000007;
 
-        dp[i][j]= ans;
+        curr[j]= ans;
         
 
             }
+            next=curr;
         }
-        return  (int)dp[0][0];//recur(0,0,charfreq,words,target,dp);
+        return  (int)next[0];//recur(0,0,charfreq,words,target,dp);
 
         
         
