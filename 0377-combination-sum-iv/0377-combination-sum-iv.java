@@ -5,9 +5,9 @@ class Solution {
         dp[0] = 1;
 
         for (int i = 1; i <= target; i++) {
-            for (int num : nums) {
-                if (i - num >= 0) {
-                    dp[i] += dp[i - num];
+           for(int j=0;j<nums.length;j++){
+                if (i - nums[j] >= 0) {// checking index valis or not
+                    dp[i] += dp[i - nums[j]];// recur(nums,target-nums[i])
                 }
             }
         }
