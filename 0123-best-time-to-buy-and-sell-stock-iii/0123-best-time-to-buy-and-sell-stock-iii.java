@@ -1,24 +1,34 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        Integer dp[][][]= new Integer[prices.length][2][3];//0,1  2,1,0
-        return recur(0,1,prices,dp,2);
-        
-    }
-    public int recur(int indx,int canbuy,int prices[],Integer dp[][][],int limit){//canbuy=0,1
-        if(indx==prices.length) return 0;
-        if(limit==0) return 0;// lmint =2,1,0 = 3 values
-        if( dp[indx][canbuy][limit] != null)  return dp[indx][canbuy][limit] ;
-        int profit=0;
+        int dp[][][]= new int[prices.length+1][2][3];//0,1// handles base case prices.length+1 like if(indx==prices.length) return 0; we hold when i==prices+1;// here no need to fill so int dp[]
+         int profit=0;
+         for(int indx=prices.length-1;indx>=0;indx--){
+            for(int canbuy=0;canbuy<=1;canbuy++){
+                for(int limit=1;limit<=2;limit++){
+         
         if(canbuy==1){
-            int buy= -prices[indx]+ recur(indx+1,0,prices,dp,limit);
-            int skip=0+  recur(indx+1,1,prices,dp,limit);
+            int buy= -prices[indx]+ dp[indx+1][0][limit];//recur(indx+1,0,prices,dp);
+            int skip=0+dp[indx+1][1][limit]; // recur(indx+1,1,prices,dp);
             profit=Math.max(buy,skip);
         }else{
-            int sell=prices[indx]+  recur(indx+1,1,prices,dp,limit-1);// buy and sell complete so limit-1
-            int skip=0+ recur(indx+1,0,prices,dp,limit);
+            int sell=prices[indx]+  dp[indx+1][1][limit-1];//recur(indx+1,1,prices,dp);
+            int skip=0+ dp[indx+1][0][limit];//recur(indx+1,0,prices,dp);
             profit=Math.max(sell,skip);
         }
         dp[indx][canbuy][limit] = profit;
-        return dp[indx][canbuy][limit] ;
-    }
-}
+            }}}
+      
+        return dp[0][1][2];//recur(0,1,prices,dp);
+        
+    }}
+    //What is dp[n][0] and dp[n][1] ?
+//   So what is profit after last day?
+
+// No matter what:
+
+// You cannot buy ❌
+// You cannot sell ❌
+
+// 👉 Profit = 0
+// dp[n][0] = 0
+// dp[n][1] = 0
