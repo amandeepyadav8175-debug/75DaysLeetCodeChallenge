@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0454-4sum-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
 |  |
 | ------- |
