@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0454-4sum-ii) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Recursion
 |  |
