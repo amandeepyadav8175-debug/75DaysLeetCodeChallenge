@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
