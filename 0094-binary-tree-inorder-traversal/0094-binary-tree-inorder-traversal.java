@@ -19,12 +19,15 @@ class Solution {
          Stack<TreeNode> stack= new Stack<>();
          TreeNode node = root;
          while (node!= null|| !stack.isEmpty()){
+            // move to the left
             while(node!= null){// loop inside loop same work
              stack.push(node);
              node= node.left;
             }
+            // print root
             node= stack.pop();
             res.add(node.val);
+            // movr right
             node= node.right;
             
          }
