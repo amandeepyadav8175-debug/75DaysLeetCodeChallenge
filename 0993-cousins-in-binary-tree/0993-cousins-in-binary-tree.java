@@ -21,9 +21,11 @@ class Solution {
         int foundchild=0;
         while(!q.isEmpty()){
             int size= q.size();
-            for(int i=0;i<size;i++){
+           // for(int i=0;i<size;i++){
+            while(size>0){
                 int sameparentchild=0;// reset 0 to 1 and then 0 
                 TreeNode node= q.poll();
+                size--;
                 if(node.left!=null){
                     if(node.left.val == x || node.left.val==y){
                         sameparentchild++;
