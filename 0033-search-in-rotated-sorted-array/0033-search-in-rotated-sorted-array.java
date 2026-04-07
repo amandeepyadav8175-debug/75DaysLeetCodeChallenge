@@ -1,0 +1,35 @@
+class Solution {
+    public int search(int[] nums, int target) {
+        return searchrotate(nums,target,0,nums.length-1);
+
+
+        
+    }
+
+    private int searchrotate(int nums[], int target, int si, int ei){
+        int n= nums.length;
+
+        if(si>ei){
+            return -1;
+        }
+
+        int mid= si+(ei-si)/2;
+        if (nums[mid] == target) {
+            return mid;
+        }
+
+        if(nums[si]<=nums[mid]){
+            if(nums[si]<= target && target<nums[mid]){
+                return searchrotate(nums,target,si,mid-1);
+            }else{
+                return searchrotate(nums,target,mid+1,ei);
+            }
+        } else{
+            if(nums[mid]< target && target<=nums[ei]){
+            return searchrotate(nums,target,mid+1,ei);
+        } else{
+            return searchrotate(nums,target,si,mid-1);
+        }
+
+    }
+}}
