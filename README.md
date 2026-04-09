@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Design
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Linked List
 |  |
