@@ -20,28 +20,12 @@ class Solution {
             return root;
 
         }
-        // find pos and insert
-        TreeNode temp= root;
-        while(temp!= null){// jabtak temp null nahi ho jats 
-            if(val<temp.val){
-                if(temp.left==null){
-                    temp.left= new TreeNode(val);
-                    break;
-                }else{
-                    temp= temp.left;
-                }
-            } else{
-            
-                if(temp.right==null){
-                    temp.right= new TreeNode(val);
-                    break;
-                }else{
-                    temp= temp.right;
-                }
-            }
-
-        
-        }
+         if(val<root.val){
+            root.left=insertIntoBST( root.left, val);
+         }else{
+            root.right=insertIntoBST( root.right, val);
+         }
+       
         return root;
     }
 }
