@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 ## Linked List
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
