@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
