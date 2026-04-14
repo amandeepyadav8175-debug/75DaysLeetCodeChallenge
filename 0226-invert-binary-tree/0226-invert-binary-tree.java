@@ -19,6 +19,8 @@ class Solution {
        Queue<TreeNode> q= new LinkedList<>();
        q.offer(root);
        while(!q.isEmpty()){
+        int size=q.size();
+        while(size>0){
        TreeNode node= q.poll();
        TreeNode temp = node.left;
        node.left=node.right;
@@ -28,6 +30,8 @@ class Solution {
     //    invertTree(root.right);
         if(node.left!= null) q.offer(node.left);
         if(node.right!= null) q.offer(node.right);
+        size--;
+        }
        }
       return root;
 
