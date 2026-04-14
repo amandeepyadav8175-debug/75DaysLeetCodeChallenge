@@ -36,7 +36,7 @@ class Solution {
             int l=0;
             int r= list.size()-1;
             while(l<r){
-                int temp= list.get(l).val;
+                int temp= list.get(l).val;// why int temp instead of TreeNode temp becuse we inserting val in list where we swap in given root array so we use TreeNode
                 list.get(l).val= list.get(r).val;
                 list.get(r).val=temp;
                 l++;
