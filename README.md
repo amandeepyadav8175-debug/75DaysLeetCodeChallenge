@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -355,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
