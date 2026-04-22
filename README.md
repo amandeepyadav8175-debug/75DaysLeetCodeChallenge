@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2698-find-the-punishment-number-of-an-integer) |
