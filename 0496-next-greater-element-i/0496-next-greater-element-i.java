@@ -21,8 +21,10 @@ class Solution {
        for(int i=0;i<nums1.length;i++){
         ans[i]=map.get(nums1[i]);
        }
-       return ans;
-
-        
+       return ans;// the map look like  element: val
+                  //                    1:3
+                  //                    3:4
+                  //                    4:-1
+                   //                    2:-1
     }
 }
