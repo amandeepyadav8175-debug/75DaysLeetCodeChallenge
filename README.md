@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 | [3110-score-of-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -384,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
