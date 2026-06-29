@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
 | ------- |
