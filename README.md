@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2678-number-of-senior-citizens](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2678-number-of-senior-citizens](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
