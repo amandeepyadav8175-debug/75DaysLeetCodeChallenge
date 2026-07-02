@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2381-shifting-letters-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
