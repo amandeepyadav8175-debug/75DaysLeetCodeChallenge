@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2381-shifting-letters-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Rolling Hash
 |  |
