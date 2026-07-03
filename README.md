@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2707-extra-characters-in-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [2523-closest-prime-numbers-in-range](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2523-closest-prime-numbers-in-range) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
