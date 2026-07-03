@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
+| [2523-closest-prime-numbers-in-range](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2523-closest-prime-numbers-in-range) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
 |  |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
