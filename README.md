@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
 | [1408-string-matching-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2466-count-ways-to-build-good-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2466-count-ways-to-build-good-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2523-closest-prime-numbers-in-range](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2523-closest-prime-numbers-in-range) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2381-shifting-letters-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Backtracking
