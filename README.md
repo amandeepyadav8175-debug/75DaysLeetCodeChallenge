@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1701-average-waiting-time](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1701-average-waiting-time) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1701-average-waiting-time](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1701-average-waiting-time) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
