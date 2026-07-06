@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
+| [1405-longest-happy-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1405-longest-happy-string) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
+| [1405-longest-happy-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1405-longest-happy-string](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1405-longest-happy-string) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
 ## Bucket Sort
 |  |
