@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1701-average-waiting-time](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1701-average-waiting-time) |
+| [1813-sentence-similarity-iii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1813-sentence-similarity-iii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1813-sentence-similarity-iii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1813-sentence-similarity-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2381-shifting-letters-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1813-sentence-similarity-iii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1813-sentence-similarity-iii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
