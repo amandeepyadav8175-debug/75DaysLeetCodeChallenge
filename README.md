@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2285-maximum-total-importance-of-roads) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3174-clear-digits](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 ## Depth-First Search
 |  |
 | ------- |
