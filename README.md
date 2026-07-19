@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1014-best-sightseeing-pair) |
 | [1105-filling-bookcase-shelves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1105-filling-bookcase-shelves) |
 | [1408-string-matching-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1400-construct-k-palindrome-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1400-construct-k-palindrome-strings) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
