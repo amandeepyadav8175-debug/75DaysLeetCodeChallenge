@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1813-sentence-similarity-iii](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1813-sentence-similarity-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2938-separate-black-and-white-balls) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
