@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2523-closest-prime-numbers-in-range](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/2523-closest-prime-numbers-in-range) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amandeepyadav8175-debug/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
